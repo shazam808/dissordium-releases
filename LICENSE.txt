@@ -1,0 +1,34 @@
+DISSORDIUM — PROPRIETARY SOFTWARE DISTRIBUTION TERMS
+Copyright (c) 2026 Dissordium authors and rights holders.
+
+These terms apply only to the original proprietary Dissordium client. They do not
+replace or restrict the licenses of bundled third-party software or artwork.
+
+Permission is granted to download, install and use unmodified official Dissordium
+binary releases, and to redistribute those releases without charge, provided that
+these terms, all third-party notices and access to the corresponding third-party
+source materials accompany the distribution. You may not misrepresent a modified
+or unofficial binary as an official Dissordium release. No rights to the Dissordium
+name or logo as a trademark are granted beyond identifying an unmodified release.
+
+No license to the proprietary client source code, modification or sublicensing of
+that code is granted, except to the extent required by applicable law or applicable
+third-party licenses. All other rights in the original client are reserved.
+
+These terms do not prohibit modification for personal use or reverse engineering
+for debugging modifications to LGPL-covered components to the extent required by
+the LGPL. Users may replace the separately distributed LGPL libraries with
+compatible modified versions. No provision restricts copying, modification,
+reverse engineering or redistribution of a third-party component where its own
+license permits those activities. See licenses/ and THIRD_PARTY_SOURCES.zip.
+
+The software is provided AS IS, without warranties of merchantability, fitness for
+a particular purpose, uninterrupted connectivity, security or non-infringement,
+to the fullest extent permitted by law. The authors and rights holders are not
+liable for damages arising from its use to the fullest extent permitted by law.
+Mandatory statutory consumer rights are not excluded.
+
+The beta software may contain defects and may interrupt connectivity. It provides
+no VPN subscription, remote server, promise of anonymity or service availability.
+Website: https://dissordium.xyz
+Project channel: https://t.me/dissordium
